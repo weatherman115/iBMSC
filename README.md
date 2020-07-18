@@ -1,7 +1,3 @@
-µBMSC
-=====
-how code
-
 Things I will attempt to do with this
 =====
 * Proper support of Move and Deselect for different gamemode skins (i.e. pop'n skin)
